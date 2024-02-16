@@ -1,5 +1,7 @@
 # 👋 Willkommen auf meinem GitHub-Profil, ich bin @mariiko-dev!
 
+### 🌑 "Die Realität ist eine Illusion, die Wahrheiten birgt innerhalb der Lügen." - Itachi Uchiha
+
 ## 👀 Ein bisschen über mich
 Ich bin ein enthusiastischer **Fullstack-Entwickler** und **DevOps-Ingenieur**, der sich leidenschaftlich der Programmierung und dem Systemmanagement widmet. Mit einer starken Basis in **JavaScript**, habe ich meine Fähigkeiten durch kontinuierliches Selbststudium und praktische Erfahrungen geschärft. Ich finde Freude daran, komplexe Probleme mit eleganter Code-Logik zu lösen und bleibe immer am Puls der Zeit, was die neuesten Technologietrends betrifft.
 
@@ -12,8 +14,6 @@ Ich bin ein enthusiastischer **Fullstack-Entwickler** und **DevOps-Ingenieur**, 
 Meine Reise des Lernens hört nie auf. Aktuell vertiefe ich mich in:
 - Moderne **JavaScript-Frameworks** wie React und Vue.
 - **Containerisierung** und **Orchestrierung** mit Docker und Kubernetes, um DevOps-Praktiken zu optimieren.
-
-### 🌑 "Die Realität ist eine Illusion, die Wahrheiten birgt innerhalb der Lügen." - Itachi Uchiha
 
 ## 💼 Technischer Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
