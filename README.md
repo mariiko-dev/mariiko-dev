@@ -13,6 +13,8 @@ Meine Reise des Lernens hört nie auf. Aktuell vertiefe ich mich in:
 - Moderne **JavaScript-Frameworks** wie React und Vue.
 - **Containerisierung** und **Orchestrierung** mit Docker und Kubernetes, um DevOps-Praktiken zu optimieren.
 
+### 🌑 "Die Realität ist eine Illusion, die Wahrheiten birgt innerhalb der Lügen." - Itachi Uchiha
+
 ## 💼 Technischer Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
