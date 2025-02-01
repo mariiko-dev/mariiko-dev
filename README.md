@@ -1,34 +1,42 @@
-# Willkomen auf mein Github! ❤️
+# **Willkommen auf meinem GitHub! ❤️**  
 
-### 🌑 "Die Realität ist eine Illusion, die Wahrheiten birgt innerhalb der Lügen." - Itachi Uchiha ㊙
+### 🌑 *"Die Realität ist eine Illusion, die Wahrheiten birgt innerhalb der Lügen."* – Itachi Uchiha ㊙  
 
-## 👀 Ein bisschen über mich
-Ich bin ein enthusiastischer **Fullstack-Entwickler** und **DevOps-Ingenieur**, der sich leidenschaftlich der Programmierung und dem Systemmanagement widmet. Mit einer starken Basis in **JavaScript**, habe ich meine Fähigkeiten durch kontinuierliches Selbststudium und praktische Erfahrungen geschärft. Ich finde Freude daran, komplexe Probleme mit eleganter Code-Logik zu lösen und bleibe immer am Puls der Zeit, was die neuesten Technologietrends betrifft.
+## 👀 **Ein bisschen über mich**  
+Ich bin ein **DevOps-Ingenieur und Fullstack-Entwickler**, der sich leidenschaftlich mit **Cloud-Infrastrukturen, Automatisierung und Skalierbarkeit** beschäftigt. Mein Fokus liegt auf **Kubernetes, CI/CD-Pipelines, Cloud-Technologien und Backend-Architekturen**. Ich liebe es, Systeme zu optimieren, Prozesse zu automatisieren und robuste, skalierbare Lösungen zu entwickeln.  
 
-### Meine Interessen
-- **Sport**: Hält meinen Körper und Geist fit und bereit für neue Herausforderungen.
-- **Schach**: Schärft meinen strategischen Verstand und meine Entscheidungsfindung.
-- **Minecraft**: Eine kreative Flucht, die meine Fähigkeit zur Problemlösung und mein architektonisches Denken fördert.
+Ich habe mich komplett **autodidaktisch** in die IT eingearbeitet und arbeite an verschiedenen Projekten, darunter:  
+- **[Libraudio](https://libraudio.com)** – Eine Plattform für kostenlose Audiobooks.  
+- **[irinabot.ru](https://irinabot.ru)** – Infrastruktur für mehrere Microservices, inkl. Authentifizierung über **Authentik**.  
+- **xvpn.tech** – Ein **VPN-Service auf Kubernetes** mit automatisierter Skalierung.  
 
-## 🌱 Ich lerne derzeit
-Meine Reise des Lernens hört nie auf. Aktuell vertiefe ich mich in:
-- Moderne **JavaScript-Frameworks** wie React und Vue.
-- **Containerisierung** und **Orchestrierung** mit Docker und Kubernetes, um DevOps-Praktiken zu optimieren.
+### **Meine Interessen**  
+- **Cloud-Architekturen & Automatisierung** – Alles, was mit Kubernetes, Terraform und CI/CD zu tun hat.  
+- **Netzwerksicherheit & Hochverfügbarkeit** – Absicherung von Infrastrukturen mit HAProxy, WireGuard & Cloudflare.  
+- **Spiele & Technologien** – Ich entwickle **Matchmaking- und Ratingsysteme** für Games.  
+- **Extremsport & Reisen** – Ich liebe Skifahren in den Alpen, insbesondere Freeride-Abfahrten abseits der Pisten.  
 
-## 💼 Technischer Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+## 💼 **Technischer Stack**  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 
-## 💞️ Zusammenarbeit
-Ich freue mich darauf, mit Gleichgesinnten zusammenzuarbeiten und an spannenden Projekten zu arbeiten, die den digitalen Horizont erweitern. Wenn du denkst, dass wir zusammenarbeiten sollten, zögere nicht, mich zu kontaktieren!
+## 💞️ **Zusammenarbeit**  
+Ich bin immer offen für spannende Projekte in den Bereichen **Cloud, DevOps, Security und Skalierbarkeit**. Wenn du eine Idee hast oder an etwas gemeinsam arbeiten willst, schreib mir einfach!  
 
-## 📫 So erreichen Sie mich
-- **Telegram**: @midixyz
-- **E-Mail**: vladimir.mariiko@proton.me
-- **LinkedIn**: [Mein LinkedIn Profil](https://www.linkedin.com/in/vladimir-mariiko-b81a242b4/)
+## 📫 **So erreichst du mich**  
+- **Telegram**: @midixyz  
+- **E-Mail**: vladimir.mariiko@proton.me  
+- **LinkedIn**: [Mein LinkedIn Profil](https://www.linkedin.com/in/vladimir-mariiko-b81a242b4/)  
 
-## ⚡ Fun Fact
-Abseits der Tastatur finde ich immer Zeit für ein schnelles Schachspiel oder erkunde die unendlichen Möglichkeiten in Minecraft. Diese Hobbys helfen mir, einen frischen Blick auf das Coding zu werfen und inspirieren mich zu kreativer Problemlösung.
+## ⚡ **Fun Fact**  
+Wenn ich nicht gerade Kubernetes-Cluster optimiere oder an Infrastruktur-Projekten arbeite, genieße ich es, in den Alpen Freeride zu fahren oder an komplexen Gaming-Ratingsystemen zu basteln.  
+
+---
